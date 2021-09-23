@@ -1,12 +1,16 @@
 .App {
   text-align: center;
+  /* position: relative; */
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
-
+.navBarA{
+  width: 100%;
+  position: fixed;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
