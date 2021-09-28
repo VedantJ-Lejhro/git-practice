@@ -1,0 +1,8 @@
+.custom-toggler.navbar-toggler {
+    border-color: rgb(67, 156, 230);
+    color: rgb(0, 89, 223);
+}
+.active{
+    background-color: aquamarine;
+
+}
